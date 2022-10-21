@@ -1,2 +1,2 @@
-# first 3k keypad
- 3k keypad pcb
+# My First Keypad
+ A 4 key keypad pcb in the same arrangement as arrow keys
