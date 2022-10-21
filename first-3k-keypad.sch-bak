@@ -580,12 +580,12 @@ Wire Wire Line
 Connection ~ 10000 3850
 Wire Wire Line
 	10000 3850 10400 3850
-Text GLabel 6400 3400 2    50   Input ~ 0
+Text GLabel 6400 4300 2    50   Input ~ 0
 COL1
-Text GLabel 6400 3300 2    50   Input ~ 0
-COL0
 Text GLabel 6400 2900 2    50   Input ~ 0
-ROW0
+COL0
 Text GLabel 6400 3000 2    50   Input ~ 0
+ROW0
+Text GLabel 6400 2800 2    50   Input ~ 0
 ROW1
 $EndSCHEMATC
